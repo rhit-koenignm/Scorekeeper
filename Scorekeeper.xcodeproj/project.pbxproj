@@ -13,6 +13,9 @@
 		F213FE3F2672E97700370D2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F213FE3D2672E97700370D2D /* Main.storyboard */; };
 		F213FE412672E97900370D2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F213FE402672E97900370D2D /* Assets.xcassets */; };
 		F213FE442672E97900370D2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F213FE422672E97900370D2D /* LaunchScreen.storyboard */; };
+		F213FE4E2672EE5100370D2D /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = F213FE4B2672EE5100370D2D /* Icon-72.png */; };
+		F213FE4F2672EE5100370D2D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F213FE4C2672EE5100370D2D /* Icon.png */; };
+		F213FE502672EE5100370D2D /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F213FE4D2672EE5100370D2D /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		F213FE402672E97900370D2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F213FE432672E97900370D2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F213FE452672E97900370D2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F213FE4B2672EE5100370D2D /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "../../../../Downloads/ScoreKeeperIcons/Icon-72.png"; sourceTree = "<group>"; };
+		F213FE4C2672EE5100370D2D /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../../../Downloads/ScoreKeeperIcons/Icon.png; sourceTree = "<group>"; };
+		F213FE4D2672EE5100370D2D /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "../../../../Downloads/ScoreKeeperIcons/Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				F213FE402672E97900370D2D /* Assets.xcassets */,
 				F213FE422672E97900370D2D /* LaunchScreen.storyboard */,
 				F213FE452672E97900370D2D /* Info.plist */,
+				F213FE4B2672EE5100370D2D /* Icon-72.png */,
+				F213FE4C2672EE5100370D2D /* Icon.png */,
+				F213FE4D2672EE5100370D2D /* Icon@2x.png */,
 			);
 			path = Scorekeeper;
 			sourceTree = "<group>";
@@ -125,6 +134,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F213FE442672E97900370D2D /* LaunchScreen.storyboard in Resources */,
+				F213FE502672EE5100370D2D /* Icon@2x.png in Resources */,
+				F213FE4E2672EE5100370D2D /* Icon-72.png in Resources */,
+				F213FE4F2672EE5100370D2D /* Icon.png in Resources */,
 				F213FE412672E97900370D2D /* Assets.xcassets in Resources */,
 				F213FE3F2672E97700370D2D /* Main.storyboard in Resources */,
 			);
